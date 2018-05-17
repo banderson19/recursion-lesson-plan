@@ -41,7 +41,4 @@ factorial(4)
 
 //1. reverse a string... e.x reverseStr('barnyard') returns 'draynrab';
 
-//2. get the nth fibonacci number as a return value ... e.x fibonacci(10) returns 55
-
-//3. count the number of recurring digits in a number... e.x recurring(12311123131)
-//return an object with each key being a digit and the value being the number that it occurs
+//2. count the number of recurring digits in a number... e.x recurring(12311123131, 1)
